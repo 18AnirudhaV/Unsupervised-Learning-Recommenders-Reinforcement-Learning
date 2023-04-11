@@ -13,4 +13,5 @@ ALL FILES BELONG TO THE COURSE (by DeepLearning.AI & Stanford University)
 - (In Progress)
 
 ### All these files are Assignments and are graded:
-- 
+- C3_W1_KMeans_Assignment.ipynb
+  - 100/100
