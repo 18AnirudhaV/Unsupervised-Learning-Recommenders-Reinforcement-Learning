@@ -15,3 +15,5 @@ ALL FILES BELONG TO THE COURSE (by DeepLearning.AI & Stanford University)
 ### All these files are Assignments and are graded:
 - C3_W1_KMeans_Assignment.ipynb
   - 100/100
+- C3_W1_Anomaly_Detection.ipynb
+  - 100/100
