@@ -17,3 +17,7 @@ ALL FILES BELONG TO THE COURSE (by DeepLearning.AI & Stanford University)
   - 100/100
 - C3_W1_Anomaly_Detection.ipynb
   - 100/100
+- C3_W2_Collaborative_RecSys_Assignment.ipynb
+  - 100/100
+- C3_W2_RecSysNN_Assignment.ipynb
+  - 100/100
