@@ -14,7 +14,7 @@ Course 2 of 3 in the Machine Learning Specialization: https://github.com/18Aniru
 - (In Progress)
 
 ### All these files are Labs and are examples of the techincal approaches that can be taken regarding the concepts taught
-- (In Progress)
+- C3_W2_Lab01_PCA_Visualization_Examples.ipynb
 
 ### All these files are Assignments and are graded:
 - C3_W1_KMeans_Assignment.ipynb
